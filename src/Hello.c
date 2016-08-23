@@ -15,5 +15,8 @@ int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 
 	puts("remote git test");
+
+	puts("commit and push");
+
 	return EXIT_SUCCESS;
 }
