@@ -17,6 +17,8 @@ int main(void) {
 	puts("remote git test");
 
 	puts("commit and push");
+	
+	puts("remote change test");
 
 	return EXIT_SUCCESS;
 }
