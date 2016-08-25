@@ -22,5 +22,7 @@ int main(void) {
 
 	// 동기화
 
+	// 추가
+
 	return EXIT_SUCCESS;
 }
