@@ -18,7 +18,7 @@ int main(void) {
 
 	puts("commit and push");
 	
-	puts("remote change test"); // test
+	puts("remote change test"); // test1
 
 	return EXIT_SUCCESS;
 }
