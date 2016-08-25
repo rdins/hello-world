@@ -20,5 +20,7 @@ int main(void) {
 	
 	puts("remote change test"); // test1
 
+	// 동기화
+
 	return EXIT_SUCCESS;
 }
