@@ -26,5 +26,7 @@ int main(void) {
 
 	// 추가
 
+	// stash test 2
+
 	return EXIT_SUCCESS;
 }
