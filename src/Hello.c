@@ -22,6 +22,8 @@ int main(void) {
 
 	// 동기화
 
+	// 긴급 수정
+
 	// 추가
 
 	return EXIT_SUCCESS;
